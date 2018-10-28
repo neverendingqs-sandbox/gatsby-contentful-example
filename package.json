@@ -22,6 +22,7 @@
     "eslint": "^4.15.0",
     "eslint-plugin-react": "^7.5.1",
     "gatsby": "^1.9.277",
+    "gatsby-cli": "^2.4.3",
     "gh-pages": "^1.2.0",
     "inquirer": "^6.0.0",
     "prettier": "^1.10.2",
